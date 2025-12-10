@@ -44,10 +44,8 @@ I'm a 17-year-old software student at a vocational high school, focused on backe
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=dark)
-
-> **Not:** `YOUR_USERNAME` kısmını GitHub kullanıcı adınla değiştirmeyi unutma.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurayozseker\&show_icons=true\&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurayozseker\&layout=compact\&theme=dark)
 
 ---
 
