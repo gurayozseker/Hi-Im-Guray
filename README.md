@@ -40,14 +40,9 @@ I'm a 17-year-old software student at a vocational high school, focused on backe
 
 *(Projeler eklendikçe buraya sabitleriz.)*
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurayozseker\&show_icons=true\&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurayozseker\&layout=compact\&theme=dark)
 
 ---
+
 
 ## 🎯 What I'm Doing Now
 
